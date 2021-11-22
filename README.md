@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TudyPie
+- 👋 Hi, I’m @Tudypie
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning game development
 - 💞️ I’m looking to collaborate on game projects
