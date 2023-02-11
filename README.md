@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tudypie
-- 👀 I’m interested in c#, js and python :)
-- 🌱 I’m currently learning 
+- 👀 I’m interested in programming languages like c#, js and python :)
+- 🌱 I’m currently working on The Facility Project on steam!!
 - 💞️ I’m looking to collaborate on any kind of projects
 - 📫 How to reach me : discord Tudypie#9855 or email tudypie1@gmail.com
 
