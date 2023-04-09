@@ -1,4 +1,3 @@
-MY SKILLS
 - Moderate -> Advanced: Game Development - Unity and C#
 - Beginner -> Moderate: HTML, CSS, JS and Python
 
