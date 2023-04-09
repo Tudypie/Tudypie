@@ -1,6 +1,6 @@
 MY SKILLS
-Moderate -> Advanced: Game Development - Unity and C#
-Beginer -> Moderate: HTML, CSS, JS and Python
+- Moderate -> Advanced: Game Development - Unity and C#
+- Beginner -> Moderate: HTML, CSS, JS and Python
 
 - 💞️ I’m looking to collaborate on any kind of projects (games, apps, websites)
 - 📫 How to reach me : discord Tudypie#9855 or email tudypie1@gmail.com
