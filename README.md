@@ -1,4 +1,5 @@
 ## Hey Everyone!
+- 🏫 I am a highschool student from Romania with a passion for Computer Science.
 - 💾 I am a passionate **Game Developer** since *2019* - *Unity and C#* - I mostly create **Horror Games**
 - 🌀 I have some experience in **Web & App Development** - HTML, CSS, JS and React framework
 - 🐍 Familiar with languages like Python and C++.
