@@ -3,7 +3,7 @@
 ## About Me
 - 🏫 I am a 16yo highschool student from Romania with a passion for **Computer Science**
 - 💾 I am a passionate **Game Developer** since *2019* - *Unity and C#*
-- 🌀 I have some experience in **Web & App Development** - HTML, CSS, JS and React framework
+- 🌀 I have some experience in **Web & App Development** - HTML, CSS, JS
 - 🐍 Familiar with languages like Python and C++
 - 📫 Contact me: discord **Tudypie#9855** or email **tudypie1@gmail.com**
 
