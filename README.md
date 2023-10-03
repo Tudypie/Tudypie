@@ -1,7 +1,7 @@
 # Hey Everyone!
 
 ## About Me
-- 🏫 I am a 16yo highschool student from Romania with a passion for **Computer Science**
+- 🏫 I am a highschool student from Romania with a passion for **Computer Science**
 - 💾 I am a passionate **Game Developer** since *2019* - *Unity and C#*
 - 🌀 I have experience in **Web Development** - HTML, CSS, JS
 - 🐍 Familiar with languages Python and C++
