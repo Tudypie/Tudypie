@@ -2,10 +2,9 @@
 
 ## About Me
 - 🏫 I am a highschool student from Romania with a passion for **Computer Science**
-- 💾 I am a passionate **Game Developer** since *2019* - *Unity and C#*
-- 🌀 I have experience in **Web Development** - HTML, CSS, JS
-- 🐍 Familiar with languages Python and C++
-- 📫 Contact me: discord **Tudypie#9855** or email **tudypie1@gmail.com**
+- 💾 I am a passionate **Game Developer** - *Unity and C#* since 2019
+- 🌀 I have experience in **Web Development** and **ML**
+- 📫 Contact me: discord **Tudypie** or email **tudypie@tudypie.com**
 
 ## My Projects
 - ⚙ Here I will post games, apps and websites created during game jams, hackathons and my free time :)
